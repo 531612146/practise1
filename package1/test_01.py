@@ -13,6 +13,10 @@ class Test1():
         assert 1 == 1
 
     @pytest.mark.P1
-    def test_case02(self):
+    def test_case03(self):
+        assert 5 == 6
+
+    @pytest.mark.P1
+    def test_case04(self):
         assert 5 == 6
 
