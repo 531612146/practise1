@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="200a02dd-973a-44fc-a60b-6e1933a0a3f5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package1/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/package1/test_01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611278870672</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first version of practise">
+      <created>1611280005009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611280005009</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,14 +182,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="698" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611213764220" />
-    <state x="349" y="49" width="1297" height="936" key="CommitChangelistDialog2" timestamp="1611278869537">
+    <state x="349" y="49" width="1297" height="936" key="CommitChangelistDialog2" timestamp="1611280003728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="349" y="49" width="1297" height="936" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611278869537" />
-    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1611279970633">
+    <state x="349" y="49" width="1297" height="936" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611280003728" />
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1611279982318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611279970633" />
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611279982318" />
     <state x="530" y="247" key="FileChooserDialogImpl" timestamp="1611224394056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
