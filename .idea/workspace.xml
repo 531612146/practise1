@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="200a02dd-973a-44fc-a60b-6e1933a0a3f5" name="Default Changelist" comment="">
+    <list default="true" id="200a02dd-973a-44fc-a60b-6e1933a0a3f5" name="Default Changelist" comment="first version of practise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package1/runtestcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/package1/runtestcase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package1/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/package1/test_01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,30 +135,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="698" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611213764220" />
-    <state x="435" y="142" width="880" height="801" key="CommitChangelistDialog2" timestamp="1611229759389">
+    <state x="349" y="49" width="880" height="801" key="CommitChangelistDialog2" timestamp="1611278825404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="435" y="142" width="880" height="801" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611229759389" />
+    <state x="349" y="49" width="880" height="801" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611278825404" />
     <state x="530" y="247" key="FileChooserDialogImpl" timestamp="1611224394056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="530" y="247" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611224394056" />
-    <state width="938" height="444" key="GridCell.Tab.0.bottom" timestamp="1611277430855">
+    <state width="978" height="444" key="GridCell.Tab.0.bottom" timestamp="1611278779825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="444" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611277430855" />
-    <state width="938" height="444" key="GridCell.Tab.0.center" timestamp="1611277430855">
+    <state width="978" height="444" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611278779825" />
+    <state width="978" height="444" key="GridCell.Tab.0.center" timestamp="1611278779825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="444" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611277430855" />
-    <state width="938" height="444" key="GridCell.Tab.0.left" timestamp="1611277430855">
+    <state width="978" height="444" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611278779825" />
+    <state width="978" height="444" key="GridCell.Tab.0.left" timestamp="1611278779825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="444" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611277430855" />
-    <state width="938" height="444" key="GridCell.Tab.0.right" timestamp="1611277430855">
+    <state width="978" height="444" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611278779825" />
+    <state width="978" height="444" key="GridCell.Tab.0.right" timestamp="1611278779825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="444" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611277430855" />
+    <state width="978" height="444" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611278779825" />
     <state x="242" y="154" width="1134" height="710" key="SettingsEditor" timestamp="1611226310807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -173,18 +171,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611226347672" />
-    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1611276179017">
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1611278793586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611276179017" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611278793586" />
     <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611226347665">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611226347665" />
-    <state x="666" y="322" key="git4idea.merge.GitPullDialog" timestamp="1611230687037">
+    <state x="666" y="322" key="git4idea.merge.GitPullDialog" timestamp="1611278843322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="666" y="322" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611230687037" />
+    <state x="666" y="322" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611278843322" />
     <state x="786" y="348" key="zielu.gittoolbox.ui.GitPushTagsDialog" timestamp="1611226641632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
