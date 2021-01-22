@@ -3,7 +3,7 @@ import allure
 
 
 class Test1():
-    # @allure.step(title = "allure.step的title效果展示...")
+    @allure.step(title = "allure.step的title效果展示...")
     @pytest.mark.P0
     def test_case01(self):
         assert 1 == 1

@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"failed","package1.test_01.Test1#test_case01","16",""
+"passed","package1.test_01.Test1#test_case02","0",""

@@ -1,0 +1,109 @@
+{
+  "uid" : "576c5c71cace1d47",
+  "name" : "test_case01",
+  "fullName" : "package1.test_01.Test1#test_case01",
+  "historyId" : "a85e5bab26d3470d93199a2527f1a9b3",
+  "time" : {
+    "start" : 1611276976460,
+    "stop" : 1611276976476,
+    "duration" : 16
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1 == 2",
+  "statusTrace" : "self = <package1.test_01.Test1 object at 0x000002331561B448>\n\n    @allure.step(title = \"allure.step的title效果展示...\")\n    @pytest.mark.P0\n    def test_case01(self):\n>       assert 1 == 2\nE       assert 1 == 2\n\ntest_01.py:9: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 1 == 2",
+    "statusTrace" : "self = <package1.test_01.Test1 object at 0x000002331561B448>\n\n    @allure.step(title = \"allure.step的title效果展示...\")\n    @pytest.mark.P0\n    def test_case01(self):\n>       assert 1 == 2\nE       assert 1 == 2\n\ntest_01.py:9: AssertionError",
+    "steps" : [ {
+      "name" : "allure.step的title效果展示...",
+      "time" : {
+        "start" : 1611276976460,
+        "stop" : 1611276976460,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError: assert 1 == 2\n",
+      "statusTrace" : "  File \"C:\\Users\\lijy11\\.virtualenvs\\practise_library-GTov-X0x\\lib\\site-packages\\allure_commons\\_allure.py\", line 172, in impl\n    return func(*a, **kw)\n  File \"D:\\auto_test\\practise_library\\package1\\test_01.py\", line 9, in test_case01\n    assert 1 == 2\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "P0"
+  }, {
+    "name" : "parentSuite",
+    "value" : "package1"
+  }, {
+    "name" : "suite",
+    "value" : "test_01"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test1"
+  }, {
+    "name" : "host",
+    "value" : "00-26lijy11"
+  }, {
+    "name" : "thread",
+    "value" : "19292-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "package1.test_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "10f9a99fdd6e053b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611276777941,
+        "stop" : 1611276777941,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "963a231afd583148",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611216877756,
+        "stop" : 1611216877757,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "P0" ]
+  },
+  "source" : "576c5c71cace1d47.json",
+  "parameterValues" : [ ]
+}
